@@ -11,7 +11,7 @@ begin
     gem.homepage = "http://github.com/raygao/rforce-raygao"
     gem.authors = ["Raymond Gao"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
-    gem.add_dependency('oauth', '>=0.4.4')
+    gem.add_dependency('oauth', '=0.4.4')
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
