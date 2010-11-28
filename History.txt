@@ -1,0 +1,29 @@
+== 0.4 2010-01-21
+
+* 1 minor enhancement:
+  * Fixed bug in search for XML libraries
+
+== 0.4 2010-01-21
+
+* 1 minor enhancement:
+  * Moved RubyGems dependencies into the gemspec where they belong
+
+== 0.3 2009-04-16
+
+* 1 minor enhancement:
+  * Updated for Ruby 1.9
+
+== 0.2.1 2008-07-04
+
+* 1 minor enhancement:
+  * Updated examples for SalesForce API v10
+
+== 0.2.0 2008-07-03
+
+* 1 major enhancement:
+  * Incorporated fixes from ActiveSalesforce project
+
+== 0.1.0 2005-09-02
+
+* 1 major enhancement:
+  * Initial release
